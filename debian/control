@@ -8,7 +8,7 @@ Standards-Version: 3.8.0
 Package: cell-modem-ui
 Section: user/system
 Architecture: any
-Depends: ${shlibs:Depends}, osso-systemui-powerkeymenu (>= 0.2.0.0)psmisc
+Depends: ${shlibs:Depends}, osso-systemui-powerkeymenu (>= 0.2.0.0),psmisc
 XB-Maemo-Display-Name: Cellular Modem Control Buttons
 Description: Adds Tablet Mode/Phone Mode buttons to powerkey menu.
  Enables switching the cellular modem on or off, without going
