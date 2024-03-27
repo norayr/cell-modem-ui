@@ -1,3 +1,8 @@
+cell-modem-ui (0.5.2-1+leste1) unstable; urgency=low
+  * leste port.
+
+ -- Norayr Chilingarian <norayr@arnet.am>  Wed, 27 Mar 2024 18:30:40 +0400
+
 cell-modem-ui (0.5.1-1) fremantle; urgency=low
 
   * More localizations
@@ -6,7 +11,7 @@ cell-modem-ui (0.5.1-1) fremantle; urgency=low
     - Revised fi_FI
     - Greek el_GR (thanks Saturn)
     - Bulgarian bg_BG (thanks todor_tsankov)
-  * Package short and long descriptions added to po files, 
+  * Package short and long descriptions added to po files,
     makes them visible in Transifex
   * Architecture limited to armel only
   * Install dependency to busybox added due postinst scripts
